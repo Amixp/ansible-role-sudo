@@ -1,1 +1,2 @@
 Install sudo
+setup sudoers
